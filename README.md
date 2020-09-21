@@ -1,4 +1,4 @@
-![photo](../images/JennaSimonPhoto.JPG)
+<img src="https://github.com/jennarsimon/jennarsimon.github.io/blob/master/JennaSimonPhoto.JPG" height="40%" width="40%">
 
 # jennarsimon.github.io
 
