@@ -1,5 +1,6 @@
 # Jenna Simon
-![]("https://github.com/jennarsimon/jennarsimon.github.io/blob/master/JennaSimonPhoto.png")
+
+![](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/JennaSimonPhoto.png?raw=true)
 
 My name is Jenna Simon, and I am a current junior at Lehigh University studying Computer Science and Business. My professional interests include data science/engineering, data journalism, and software engineering.
 
