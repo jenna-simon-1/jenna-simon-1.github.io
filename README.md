@@ -1,4 +1,4 @@
-# Jenna Simon test
+# Jenna Simon
 
 <img src="https://github.com/jennarsimon/jennarsimon.github.io/blob/master/JennaSimonPhoto.png" height="40%" width="40%">
 
