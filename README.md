@@ -1,6 +1,6 @@
 # Jenna Simon
 
-<img src="https://github.com/jennarsimon/jennarsimon.github.io/blob/master/JennaSimonPhoto.png?raw=true" width="50%" height="50%" >
+<img src="https://github.com/jennarsimon/jennarsimon.github.io/blob/master/JennaSimonPhoto.png?raw=true" width="40%" height="40%" >
 
 My name is Jenna Simon, and I am a current junior at Lehigh University studying Computer Science and Business. My professional interests include data science/engineering, data journalism, and software engineering.
 
