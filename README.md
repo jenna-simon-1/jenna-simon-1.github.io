@@ -1,4 +1,4 @@
-![photo](http://github.com/jennarsimon/images/JennaSimonPhoto.JPG)
+![photo](../images/JennaSimonPhoto.JPG)
 
 # jennarsimon.github.io
 
