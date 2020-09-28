@@ -10,3 +10,9 @@ For more about my professional experience: [LinkedIn](https://www.linkedin.com/i
 
 To see my other data visualization work: [Tableau Public](https://public.tableau.com/profile/jenna.simon#!/)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Using Canva to illustrate COVID-19 trends
+
+As many universities changed to a hybrid or completely online mode of instruction this semester due to the COVID-19 pandemic, an increased number of students opted to take a semester off or defer their enrollment. The infographic below shows how this trend affected different types of universities differently. The data provided by the [National Student Clearinghouse Research Center](https://nscresearchcenter.org/stay-informed/) also makes it clear that international students were more likely to choose to not enroll for the Fall 2020 semester.
+
+![graphic](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/COVID%20Context_%20Decreases%20in%20Fall%202020%20University%20Enrollment.png?raw=true)
