@@ -17,4 +17,8 @@ As many universities changed to a hybrid or completely online mode of instructio
 
 ![graphic](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/COVID%20Context_%20Decreases%20in%20Fall%202020%20University%20Enrollment.png?raw=true)
 
+## Using TimelineJS to show the history of "The Rivalry"
+
+The Rivalry football game between Lehigh University and Lafayette College has an over 100-year history. In the visualization below, I used TimelineJS to showcase some of the highlights of the rivalry since it began in 1884.
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Yt3xg9I3Ah5rUrFO9r_U18AkojIAHUd7O8rESl07-Mk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
