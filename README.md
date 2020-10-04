@@ -18,8 +18,19 @@ As many universities changed to a hybrid or completely online mode of instructio
 ![graphic](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/COVID%20Context_%20Decreases%20in%20Fall%202020%20University%20Enrollment.png?raw=true)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Using TimelineJS to show the history of "The Rivalry"
+## Using TimelineJS 
+
+#### History of "The Rivalry"
 
 The Rivalry football game between Lehigh University and Lafayette College has an over 100-year history. In the visualization below, I used TimelineJS to showcase some of the highlights of the rivalry since it began in 1884.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Yt3xg9I3Ah5rUrFO9r_U18AkojIAHUd7O8rESl07-Mk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+#### History of Pandemics
+
+Diseases have been a threat to populations since the beginning of humanity. However, as civilizations have developed, the threat of the spread of these diseases has become more significant. Larger cities, increased international trade, and increased contact with people from throughout the world can all contribute to faster and wider spread of illness.
+
+As reported by [Visual Capitalist](https://www.visualcapitalist.com/history-of-pandemics-deadliest/), the frequency of infectious disease outbreaks has increased in the modern era. The timeline below highlights some of the most significant infectious disease outbreaks in history, dating back to 165 AD.
+
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+                                
