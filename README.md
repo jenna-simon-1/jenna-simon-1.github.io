@@ -37,6 +37,8 @@ ________________________________________________________________________________
 
 ## Using Chartbuilder
 
+#### <em>Lehigh University 2019 Undergraduate Enrollment by College</em>
+
 For this project, we took a closer look at the makeup of the Lehigh University student body. Specificlly, I used Chartbuilder to show what percentage of the Lehigh student body was in each college.
 
 ![2019 Undergraduate Enrollment](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/2019UndergraduateEnrollment.png?raw=true)
