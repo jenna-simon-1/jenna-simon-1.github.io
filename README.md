@@ -42,3 +42,13 @@ ________________________________________________________________________________
 For this project, we took a closer look at the makeup of the Lehigh University student body. Specificlly, I used Chartbuilder to show what percentage of the Lehigh student body was in each college.
 
 ![2019 Undergraduate Enrollment](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/UndergraduateEnrollment2019.png?raw=true)
+
+#### <em>COVID-19 Testing Sources for Lehigh Students</em>
+
+Lehigh University began surveillance testing of its students for COVID-19 the week of 10/05/2020. Up until that point, the Lehigh University Health and Wellness Center (HWC) had only tested symptomatic students.
+
+In the days leading up to the start of surveillance testing, there was spike in the number of on-campus symptomatic cases. Many students were told they would have to wait days to be tested, as the university could not keep up with the sudden increase in demand for testing. Therefore, many students sought alternatives to testing from the university.
+
+The following graphic shows the breakdown of where Lehigh University students who tested positive for COVID-19 received their tests. As of 10/11/2020, approximately one-third of positive student tests were not adiministered by the university.
+
+![Lehigh COVID-19 Testing](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/LehighStudentTestingSources.png?raw=true)
