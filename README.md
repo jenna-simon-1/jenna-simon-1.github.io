@@ -52,3 +52,8 @@ In the days leading up to the start of surveillance testing, there was spike in 
 The following graphic shows the breakdown of where Lehigh University students who tested positive for COVID-19 received their tests. As of 10/11/2020, approximately one-third of positive student tests were not adiministered by the university.
 
 ![Lehigh COVID-19 Testing](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/LehighStudentTestingSources.png?raw=true)
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Using Google My Maps
+
+<iframe src="https://www.google.com/maps/d/embed?mid=10QpYpxZ6cfn7y7-5UJGCgFJCGC31rRYT" width="640" height="480"></iframe>
