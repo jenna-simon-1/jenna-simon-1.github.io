@@ -65,4 +65,4 @@ ________________________________________________________________________________
 
 ## Using Tableau
 
-<iframe src="https://public.tableau.com/views/PartyData_16039976624710/LehighStudentsPartyLocationPreferences?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="640" height="480"></iframe>
+<iframe src="https://public.tableau.com/views/PartyData_16039976624710/LehighStudentsPartyLocationPreferences?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="480"></iframe>
