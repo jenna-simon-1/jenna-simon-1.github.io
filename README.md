@@ -65,8 +65,12 @@ ________________________________________________________________________________
 
 ## Using Tableau
 
+#### <em>Party Data</em>
 A survey of Lehigh University students was conducted to see what students' party preferences were. The graphic below examines whether students prefer attending parties off campus, or on campus. In addition to party location, the poll asked students about other party related topics such as safety and means of transportation.
 
 Based on the survey data, male students seemed more inclined to prefer hosting parties at on-campus fraternity houses, while female students preferred attending parties off campus. When breaking down the data by campus involvement, athletes were more inclined to prefer parties hosted at off-campus houses, while students involved in Greek life showed a slight preference for attending parties at on-campus fraternity houses.
 
 <iframe src="https://public.tableau.com/views/PartyData_16039976624710/LehighStudentsPartyLocationPreferences?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="848"></iframe>
+
+#### <em>COVID-19 Cases by State</em>
+<iframe src="https://public.tableau.com/views/StateCaseNumbersvs_PositivityRates/StateCaseNumbersvs_PositivityRates?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="635" height="1400"></iframe>
