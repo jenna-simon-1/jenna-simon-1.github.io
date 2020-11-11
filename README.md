@@ -72,7 +72,7 @@ Based on the survey data, male students seemed more inclined to prefer hosting p
 
 <iframe src="https://public.tableau.com/views/PartyData_16039976624710/LehighStudentsPartyLocationPreferences?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="860"></iframe>
 
-
+<br/>
 ### <em>COVID-19 Cases by State</em>
 
 When trying to judge how a state is able to control the spread of COVID-19, often looking at case numbers isn't an accurate measure. The two visualizations below demonstrate how case numbers alone can be misleading.
