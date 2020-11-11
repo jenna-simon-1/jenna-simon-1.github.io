@@ -73,4 +73,4 @@ Based on the survey data, male students seemed more inclined to prefer hosting p
 <iframe src="https://public.tableau.com/views/PartyData_16039976624710/LehighStudentsPartyLocationPreferences?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="848"></iframe>
 
 #### <em>COVID-19 Cases by State</em>
-<iframe src="https://public.tableau.com/views/StateCaseNumbersvs_PositivityRates/StateCaseNumbersvs_PositivityRates?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="635" height="1400"></iframe>
+<iframe src="https://public.tableau.com/views/StateCaseNumbersvs_PositivityRates/StateCaseNumbersvs_PositivityRates?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="1450"></iframe>
