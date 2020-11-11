@@ -75,5 +75,10 @@ Based on the survey data, male students seemed more inclined to prefer hosting p
 
 #### <em>COVID-19 Cases by State</em>
 
+When trying to judge how a state is able to control the spread of COVID-19, often looking at case numbers isn't an accurate measure. The two visualizations below demonstrate how case numbers alone can be misleading.
+
+In the map, the color of each state represents the total number of new cases the state reported in the past seven days, as of 11/10/2020. This data is from [the CDC](https://covid.cdc.gov/covid-data-tracker/#cases_casesper100klast7days). The darker the blue, the more cases the state reported. To get a more defined look at these numbers, a user can choose to adjust the "Min Number of Cases" parameter using the slider at the top right. After adjusting this, the map will only highlight states that have experienced more new cases in the past seven days than this minimum number.
+
+However, it is generally agreed that control of the virus is better illustrated by a state's testing positivity rate. In general, a positivity rate of less than 5% is seen as desirable. The visualization below the map is a representation of each state's positivity rates. This data is from [Johns Hopkins University](https://coronavirus.jhu.edu/testing/testing-positivity). Circles in red represent states that are above that 5% threshold, while circles in blue represent states that are below that threshold. The larger the circle, the higher the positivity rate. Similar to the map graphic, a user can choose to exclude circles that are below a certain positivity rate by adjusting the "Min Positivity Rate" slider.
 
 <iframe src="https://public.tableau.com/views/StateCaseNumbersvs_PositivityRates/StateCaseNumbersvs_PositivityRates?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="1450"></iframe>
