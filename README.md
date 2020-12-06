@@ -4,7 +4,7 @@
 
 In my time at Lehigh, I have interned as a Business Intelligence Engineer at Amazon Web Services, worked as Data Editor for [The Brown & White newspaper](https://thebrownandwhite.com/data-graphics/), been a grader for Lehigh's Design and Analysis of Algorithms course, and served as Vice President of the [Computer Science and Business Association](https://csb.lehigh.edu/).
 
-The projects below make up the work I did for my <em>From Stats to Stories: Introduction to Data Journalism</em> course at Lehigh. Enjoy!
+The projects below make up the work I did for my <em>From Stats to Stories: Introduction to Data Journalism</em> course at Lehigh. For this portfolio, I chose to center my visualizations around data relating to the COVID-19 pandemic.
 
 For more about my professional experience: [LinkedIn](https://www.linkedin.com/in/jenna-simon1101/)
 
@@ -33,12 +33,6 @@ As reported by [Visual Capitalist](https://www.visualcapitalist.com/history-of-p
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Using Chartbuilder
-
-### <em>Lehigh University 2019 Undergraduate Enrollment by College</em>
-
-For this project, we took a closer look at the makeup of the Lehigh University student body. Specificlly, I used Chartbuilder to show what percentage of the Lehigh student body was in each college.
-
-![2019 Undergraduate Enrollment](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/UndergraduateEnrollment2019.png?raw=true)
 
 ### <em>COVID-19 Testing Sources for Lehigh Students</em>
 
