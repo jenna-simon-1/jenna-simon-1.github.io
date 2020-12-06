@@ -56,7 +56,9 @@ This map illustrates the serious impact the COVID-19 virus has had world-wide. T
 Data from [Johns Hopkins University](https://coronavirus.jhu.edu/testing/international-comparison).
 
 <iframe src="https://www.google.com/maps/d/embed?mid=10QpYpxZ6cfn7y7-5UJGCgFJCGC31rRYT" width="640" height="480"></iframe>
-![]()
+
+![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png)
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Using Tableau
 
