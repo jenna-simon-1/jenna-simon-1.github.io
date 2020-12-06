@@ -40,7 +40,7 @@ Lehigh University began surveillance testing of its students for COVID-19 the we
 
 In the days leading up to the start of surveillance testing, there was spike in the number of on-campus symptomatic cases. Many students were told they would have to wait days to be tested, as the university could not keep up with the sudden increase in demand for testing. Therefore, many students sought alternatives to testing from the university.
 
-The following graphic shows the breakdown of where Lehigh University students who tested positive for COVID-19 received their tests. As of 10/11/2020, approximately one-third of positive student tests were not adiministered by the university, according data from the [Lehigh University COVID Dashboard](https://coronavirus.lehigh.edu/covid-19-dashboard-reporting) on that date.
+The following graphic shows the breakdown of where Lehigh University students who tested positive for COVID-19 received their tests. As of 10/11/2020, approximately one-third of positive student tests were not adiministered by the university, according to data from the [Lehigh University COVID Dashboard](https://coronavirus.lehigh.edu/covid-19-dashboard-reporting) on that date.
 
 ![Lehigh COVID-19 Testing](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/LehighStudentTestingSources.png?raw=true)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
