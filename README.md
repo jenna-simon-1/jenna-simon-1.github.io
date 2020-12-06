@@ -49,6 +49,8 @@ ________________________________________________________________________________
 
 At the start of the pandemic, testing was a difficult bottleneck to overcome in terms of taking control of the virus's spread. Many US citizens were highly critical of the government's ability to role out testing early on. This map shows the top 20 countries in terms of tests performed per day per 100,000 people, based on a 7-day moving average starting 10/19/2020.
 
+This map illustrates the serious impact the COVID-19 virus has had world-wide. The countries with the highest testing rates are not concentrated in any one geographic area. As opposed to other viruses that may have had more serious impacts in some parts of the world when compared to others, COVID-19 has spurred significant response protocols, such as high testing rates, in countries all around the globe.
+
 Data from [Johns Hopkins University](https://coronavirus.jhu.edu/testing/international-comparison).
 
 <iframe src="https://www.google.com/maps/d/embed?mid=10QpYpxZ6cfn7y7-5UJGCgFJCGC31rRYT" width="640" height="480"></iframe>
