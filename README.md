@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 Diseases have been a threat to populations since the beginning of humanity. However, as civilizations have developed, the threat of the spread of these diseases has become more significant. Larger cities, increased international trade, and increased contact with people from throughout the world can all contribute to faster and wider spread of illness.
 
-As reported by [Visual Capitalist](https://www.visualcapitalist.com/history-of-pandemics-deadliest/), the frequency of infectious disease outbreaks has increased in the modern era. The timeline below highlights some of the most significant infectious disease outbreaks in history, dating back to 165 AD.
+As reported by [Visual Capitalist](https://www.visualcapitalist.com/history-of-pandemics-deadliest/), the frequency of infectious disease outbreaks has increased in the modern era. The timeline below highlights some of the most significant infectious disease outbreaks in history, dating back to 165 AD, according to data in the linked Visual Capitalist article above.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1344G4KgX_Y95g8eXG4TFMf-jtc8jTfx5tVco42v0wso&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -40,7 +40,7 @@ Lehigh University began surveillance testing of its students for COVID-19 the we
 
 In the days leading up to the start of surveillance testing, there was spike in the number of on-campus symptomatic cases. Many students were told they would have to wait days to be tested, as the university could not keep up with the sudden increase in demand for testing. Therefore, many students sought alternatives to testing from the university.
 
-The following graphic shows the breakdown of where Lehigh University students who tested positive for COVID-19 received their tests. As of 10/11/2020, approximately one-third of positive student tests were not adiministered by the university.
+The following graphic shows the breakdown of where Lehigh University students who tested positive for COVID-19 received their tests. As of 10/11/2020, approximately one-third of positive student tests were not adiministered by the university, according data from the [Lehigh University COVID Dashboard](https://coronavirus.lehigh.edu/covid-19-dashboard-reporting) on that date.
 
 ![Lehigh COVID-19 Testing](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/LehighStudentTestingSources.png?raw=true)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
