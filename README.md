@@ -31,6 +31,7 @@ As reported by [Visual Capitalist](https://www.visualcapitalist.com/history-of-p
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1344G4KgX_Y95g8eXG4TFMf-jtc8jTfx5tVco42v0wso&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 ![]()
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Using Chartbuilder
 
@@ -43,6 +44,7 @@ In the days leading up to the start of surveillance testing, there was spike in 
 The following graphic shows the breakdown of where Lehigh University students who tested positive for COVID-19 received their tests. As of 10/11/2020, approximately one-third of positive student tests were not adiministered by the university, according to data from the [Lehigh University COVID Dashboard](https://coronavirus.lehigh.edu/covid-19-dashboard-reporting) on that date.
 
 ![Lehigh COVID-19 Testing](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/LehighStudentTestingSources.png?raw=true)
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Using Google My Maps
 
