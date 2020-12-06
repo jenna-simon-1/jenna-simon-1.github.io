@@ -31,7 +31,7 @@ As reported by [Visual Capitalist](https://www.visualcapitalist.com/history-of-p
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1344G4KgX_Y95g8eXG4TFMf-jtc8jTfx5tVco42v0wso&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png)
+![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Using Chartbuilder
@@ -57,7 +57,7 @@ Data from [Johns Hopkins University](https://coronavirus.jhu.edu/testing/interna
 
 <iframe src="https://www.google.com/maps/d/embed?mid=10QpYpxZ6cfn7y7-5UJGCgFJCGC31rRYT" width="640" height="480"></iframe>
 
-![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png)
+![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Using Tableau
