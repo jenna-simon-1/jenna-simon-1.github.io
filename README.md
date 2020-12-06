@@ -30,7 +30,7 @@ Diseases have been a threat to populations since the beginning of humanity. Howe
 As reported by [Visual Capitalist](https://www.visualcapitalist.com/history-of-pandemics-deadliest/), the frequency of infectious disease outbreaks has increased in the modern era. The timeline below highlights some of the most significant infectious disease outbreaks in history, dating back to 165 AD, according to data in the linked Visual Capitalist article above.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1344G4KgX_Y95g8eXG4TFMf-jtc8jTfx5tVco42v0wso&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-![]()
+![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Using Chartbuilder
