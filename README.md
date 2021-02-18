@@ -83,6 +83,7 @@ If one were to only look at the new case numbers shown in the map, it would be e
 
 <iframe src="https://public.tableau.com/views/StateCaseNumbersvs_PositivityRates/StateCaseNumbersvs_PositivityRates?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="1450"></iframe>
 
+![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Using Datawrapper
