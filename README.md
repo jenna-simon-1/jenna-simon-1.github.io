@@ -82,3 +82,10 @@ However, it is generally agreed that control of the virus is better illustrated 
 If one were to only look at the new case numbers shown in the map, it would be easy to conclue Illinois and Texas are in the worst shape. In reality, this is not as accurate when taking into account each state's population. When looking at the circle visualization, it is easier to determine which states are experiencing the larger rates of positive cases.
 
 <iframe src="https://public.tableau.com/views/StateCaseNumbersvs_PositivityRates/StateCaseNumbersvs_PositivityRates?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="1450"></iframe>
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Using Datawrapper
+
+<iframe title="Lehigh Student Body by College Enrollment" aria-label="chart" id="datawrapper-chart-EZpMm" src="https://datawrapper.dwcdn.net/EZpMm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="638"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
