@@ -105,4 +105,4 @@ ________________________________________________________________________________
 
 ## Visualizing Data with Tableau 2
 
-<iframe src="https://public.tableau.com/profile/jenna.simon#!/vizhome/STEMEmploymentandPaybyGender/STEMEmploymentandPaybyGender?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640"></iframe>
+<iframe src="https://public.tableau.com/profile/jenna.simon#!/vizhome/STEMEmploymentandPaybyGender/STEMEmploymentandPaybyGender?:showVizHome=no&:embed=true" width="640" height="100%"></iframe>
