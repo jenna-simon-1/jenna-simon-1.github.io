@@ -103,6 +103,6 @@ The heat map below shows the locations of 500 recent tweets relating to the COVI
 ![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Visualizing Data with Tableau
+## Visualizing Data with Tableau 2
 
-<iframe src="https://public.tableau.com/profile/jenna.simon#!/vizhome/STEMEmploymentandPaybyGender/STEMEmploymentandPaybyGender?:showVizHome=no&:embed=true" width="640" height="500"></iframe>
+<iframe src="https://public.tableau.com/profile/jenna.simon#!/vizhome/STEMEmploymentandPaybyGender/STEMEmploymentandPaybyGender?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no&:embed=true" width="640" height="500"></iframe>
