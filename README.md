@@ -88,7 +88,7 @@ ________________________________________________________________________________
 
 ## Using Datawrapper
 
-<iframe title="Lehigh Student Body by College Enrollment" aria-label="chart" id="datawrapper-chart-EZpMm" src="https://datawrapper.dwcdn.net/EZpMm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="638"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Lehigh Student Body by College Enrollment" aria-label="chart" id="datawrapper-chart-4V2C7" src="https://datawrapper.dwcdn.net/4V2C7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="638"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
