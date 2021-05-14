@@ -105,7 +105,7 @@ Credits: Sound from stephan/SoundBible, photo by Jenna Simon, Sound from LittleC
 ![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Mapping Twitter Data with ArcGIS updated
+## Mapping Twitter Data with ArcGIS
 
 The heat map below shows the locations of 500 recent tweets relating to the COVID-19 pandemic. This map illustrates how the pandemic is truly a nation-wide issue, and based on tweet locations there isn't much evidence that the pandemic is central in any one location. The tweets seem to be appropriately spread out based on the country's population densities.
 
