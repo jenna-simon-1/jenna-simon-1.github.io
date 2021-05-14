@@ -105,11 +105,11 @@ Credits: Sound from stephan/SoundBible, photo by Jenna Simon, Sound from LittleC
 ![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Mapping Twitter Data with ArcGIS
+## Mapping Twitter Data with ArcGIS updated
 
 The heat map below shows the locations of 500 recent tweets relating to the COVID-19 pandemic. This map illustrates how the pandemic is truly a nation-wide issue, and based on tweet locations there isn't much evidence that the pandemic is central in any one location. The tweets seem to be appropriately spread out based on the country's population densities.
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19 Tweets" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=165214db64fd495ba95da80a29e9621d&extent=-180,-29.0534,-30.0465,72.1895&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=dark"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID19 Tweets" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=730f554a470c409d9dc45efcaa7c35df&extent=-180,-28.8996,-21.1696,72.1357&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
 
 ![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
