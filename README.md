@@ -94,6 +94,17 @@ ________________________________________________________________________________
 ![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+## 360 Imagery and Virtual Tour
+
+In the midst of the COVID-19 pandemic and social distancing guidelines, Lehigh's campus areas look a bit different then usual. While some indoor public areas are used less frequently, students have started take advantage of the university's outdoor options more than they may in a typical semester.
+
+Credits: Sound from stephan/SoundBible, photo by Jenna Simon, Sound from LittleCloudCinema/freesound, photo by Jenna Simon, Photo by Jenna Simon
+
+<iframe width="100%" height="480px" src="https://poly.google.com/view/2GRbRm_SAJI/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+![blank](https://github.com/jennarsimon/jennarsimon.github.io/blob/master/square.png?raw=true)
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## Mapping Twitter Data with ArcGIS
 
 The heat map below shows the locations of 500 recent tweets relating to the COVID-19 pandemic. This map illustrates how the pandemic is truly a nation-wide issue, and based on tweet locations there isn't much evidence that the pandemic is central in any one location. The tweets seem to be appropriately spread out based on the country's population densities.
